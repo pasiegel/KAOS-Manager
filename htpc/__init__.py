@@ -1,4 +1,4 @@
-""" Initiate global variables """
+""" initialize global variables """
 RUNDIR = None
 DATADIR = None
 DB = None
